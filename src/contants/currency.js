@@ -1,0 +1,39 @@
+const currencyEnum = [
+  'AUD',
+  'BRL',
+  'BGN',
+  'CNY',
+  'DKK',
+  'EUR',
+  'PHP',
+  'HKD',
+  'HRK',
+  'INR',
+  'IDR',
+  'ISK',
+  'ILS',
+  'JPY',
+  'ZAR',
+  'CAD',
+  'KRW',
+  'HUF',
+  'MYR',
+  'MXN',
+  'XDR',
+  'NOK',
+  'NZD',
+  'PLN',
+  'RON',
+  'RUB',
+  'SGD',
+  'SEK',
+  'CHF',
+  'THB',
+  'TRY',
+  'USD',
+  'GBP'
+]
+
+module.exports = {
+  currencyEnum
+}
